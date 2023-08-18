@@ -3,3 +3,6 @@ Everyone wants to do things "better." A to-do list app lets a user store informa
 Store, retrieve, and modify "to do" information within a database
 View "to do" information in a clean, attractive format
 View the application on a mobile computer or desktop computer
+
+The deployed version can be found at
+https://shwetansh420.github.io/To-doApp/
